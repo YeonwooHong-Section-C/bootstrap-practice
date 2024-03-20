@@ -1,0 +1,35 @@
+/* hero section */
+.p-5{
+    background-image: url('https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/life-in-city-images/seoul-korea-glance.jpg');
+    height: 400px;
+    background-size: cover;
+}
+
+.mask{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* gallery section img height */
+.img-thumbnail{
+    height: 90%;
+}
+
+/* contact section */
+#contact-form{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.btn-primary{
+    float: right;
+}
+
+#inputQuestion{
+    height: 200px;
+}
+
+/* footer */
+.p-3{
+    background-color: white;
+}
